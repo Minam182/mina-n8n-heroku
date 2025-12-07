@@ -1,0 +1,13 @@
+{
+  "name": "mina-n8n-heroku",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "^1.79.3"
+  }
+}
